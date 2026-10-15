@@ -35,7 +35,7 @@ Recorded-audio transcription is useful when written records must be prepared fro
 
 ## Interface Preview
 
-![Dragon Professional Product Graphic](https://dragon.nuance.com/shared/images/image-spot-drg-dpv16-tile-347x190.png)
+![Dragon Professional Product Graphic](https://kardi.fr/wp-content/uploads/2025/06/Dragon-Pro-16-Visuel-Screenshot.png)
 
 This product graphic represents the Dragon Professional product family. For application controls, dictation guidance, and configuration details, consult the official documentation.
 
