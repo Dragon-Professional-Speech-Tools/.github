@@ -1,4 +1,3 @@
-
 # Dragon Professional Speech Tools
 
 Dragon Professional is a speech recognition utility designed to turn spoken language into written documents and help users manage text through voice commands. It supports professional dictation, recorded-audio transcription, document correction, and reusable commands for repetitive writing tasks.
